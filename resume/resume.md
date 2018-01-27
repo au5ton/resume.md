@@ -24,6 +24,7 @@ College of Engineering, GPA: 2.85
 - Shell scripts (Bash + Batch)
 - Python
 - Matlab
+- Git / Github
 - SQL
 - Ruby
 - Go
