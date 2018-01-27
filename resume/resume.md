@@ -12,11 +12,11 @@
 Class rank: 58 of 513, GPA: 3.91
 
 <span class="subtitle">Texas A&M University at Galveston / Class of 2021</span>
-College of Engineering, GPA: 2.85
+College of Engineering
 
 ## Professional Experience
 
-### Professional Skills
+<!-- ### Professional Skills
 - Full-stack web development
 - Node.js
 - CSS and CSS preprocessors
@@ -36,22 +36,18 @@ College of Engineering, GPA: 2.85
 - UI/UX design
 - Linux server maintenance/support
 - Desktop/Laptop/Smartphone tech support
-- Dining and retail experience
+- Dining and retail experience -->
 
-### Employment History
 - Freelance web development since 2014
-- **Keypad** (www.getkeypad.co): Developed website from scratch for a popular app that made its way to the top 10 on the Mac App Store, rated Best Communication App of 2014 by iMore.com.
-- **Eytan Schulman** (www.eytan.co): Personal website for Eytan Schulman. Developed and designed from scratch in 2015.
-- **Braeden Mayer** (braedenmayer.com): Personal website for Braeden Mayer. Developed and designed from scratch in 2015. Worked on a previous version.
-- **Willow Bumby** (www.istx25.io): Personal website for Willow Bumby. Developed and designed in collaboration with Logan McAnsh in 2015. Worked on a previous version.
-- **SalesNexus** (www.salesnexus.com): Internship from March 2016 to July 2016. Quality assurance and testing for a new CRM platform. Implemented automated tests with Selenium.
-- **Kathleen A Nicholson, CPA** (www.kanicholsoncpa.com): Small business website for a local, Houston tax firm. Developed and designed from scratch in 2016. Heavily optimized for speed and efficiency while maintaining compatibility for mobile devices. Not yet published.
-- Jersey Mike’s crew member from September 2016 to January 2017
-- Office Depot sales associate from January 2017 to August 2017
-- TAMUG Information Services from January 2018 to present
+- **Keypad** (www.getkeypad.co): Freelance project from November 12, 2014 to December 04, 2015. Developed static front-end from scratch for a popular app that made its way to the top 10 on the Mac App Store, rated Best Communication App of 2014 by iMore.com.
+- **Eytan Schulman** (www.eytan.co): Freelance project from June 1, 2015 to June 22, 2015. Personal website for Eytan Schulman. Developed and designed static front-end from scratch.
+- **SalesNexus** (www.salesnexus.com): Internship from February 16, 2016 to June 20, 2016. Quality assurance and testing for a new CRM platform. Implemented automated tests with Selenium in Node.js.
+- **Kathleen A Nicholson, CPA** (www.kanicholsoncpa.com): Freelance project from September 8, 2016 to September 9, 2016. Small business website for a local, Houston tax firm. Utilized Jekyll and Sass CSS preprocessor for optimal development workflow. Not yet published.
+- Office Depot sales associate from January 22, 2017 to August 11, 2017
+- TAMUG Information Services from January 25, 2018 to present
 
 
-### Personal Projects
+<!-- ### Personal Projects
 Projects developed on my own time and volition.
 
 - **Stego** (www.git.io/vRX9M): CodeRED Liftoff hackathon project for PNG image steganography. Started and finished project in less than 24 hours. Lead developer of project and co-designed the core embedding algorithm.
@@ -63,4 +59,4 @@ Projects developed on my own time and volition.
 - **au5ton-logger** (www.npmjs.com/au5ton-logger): Custom NPM module written to pretty-print _everything_, including color-coding by datatypes, configurable options with how explicit to be, and emojis for your errors, warnings, and successes.
 - **Music** (www.austinj.net/music): Small showcase of what kind of music I've been listening to lately, populated by Last.fm and SoundCloud data. Statistics powered by Heroku API server.
 - **www.Austinj.net**: Sleek, efficient website implementing Material Design to showcase my work.
-- Resume generated from Markdown: https://github.com/au5ton/resume.md
+- Resume generated from Markdown: https://github.com/au5ton/resume.md -->
