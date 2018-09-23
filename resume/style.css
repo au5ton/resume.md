@@ -30,6 +30,7 @@ body {
 
 /* Main Body */
 h1,h2,h3,h4,h5 {
+    font-weight: 500;
     margin-top: 0.33em;
     margin-bottom: 0.33em;
 }
@@ -40,8 +41,13 @@ a {
     color: #1b1b79;
 }
 
+ul, ol {
+    margin-top: 0.22em;
+    margin-bottom: 0.22em;
+}
+
 .subtitle {
-    font-weight: 700;
+    font-weight: 500;
     letter-spacing: 85%;
     text-transform: uppercase;
 }

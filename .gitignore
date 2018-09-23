@@ -1,2 +1,2 @@
 # keep binaries out of source tree
-Resume.pdf
+*.pdf
