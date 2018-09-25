@@ -21,7 +21,7 @@
     - Maintaining stocked inventory and setting up displays
     - Responsible for posting weekly ad (sales stickers) on specific merchandise regularly
     - Responsible for operating POS system
-- TAMUG Information Services and Helpdesk from January 25, 2018 to present
+- TAMUG Information Services Student Technician from January 25, 2018 to present
     - Responsible for repairing faculty and staff computers
     - Solving software issues on student computers
     - Responsible for answering helpdesk phone calls and email correspondence
