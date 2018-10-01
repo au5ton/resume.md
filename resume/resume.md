@@ -3,60 +3,30 @@
 <p>Houston, TX * austinjckson@gmail.com * 281-851-9106 * austinj.net</p>
 </div>
 
-
 <!-- Main body starts here  --->
 
-## Education
+### Education
 
-<span class="subtitle">Heights High School / Graduated Class of 2017</span>
+<span class="subtitle">Heights High School / Class of 2017</span>
 Class rank: 58 of 513, GPA: 3.91
 
 <span class="subtitle">Texas A&M University at Galveston / Class of 2021</span>
-College of Engineering
+College of Engineering, pursuing Computer Science major
 
-## Professional Experience
+### Professional Experience
 
-<!-- ### Professional Skills
+- TAMUG Information Services Student Technician from January 25, 2018 to present
+    - Responsible for repairing faculty and staff computers
+    - Solving software issues on student computers
+    - Responsible for answering helpdesk phone calls and email correspondence
+    - Title IX Training and Compliance
+- Office Depot sales associate from January 22, 2017 to January 19, 2018
+    - Meet and understand customer needs for office supplies and printing jobs
+    - Communicate and cooperate on printing jobs between shifts
+
+### Professional Skills
+- Windows/macOS/iOS/Android technical support
+- Shell scripts & console environments (Bash + CMD)
 - Full-stack web development
-- Node.js
-- CSS and CSS preprocessors
-- Java
-- Shell scripts (Bash + Batch)
-- Python
-- Matlab
-- Git / Github
-- SQL
-- Ruby
-- Go
-- Swift
-- C++
-- Final Cut Pro X certified
-- Audio mastering
-- Photography
-- UI/UX design
-- Linux server maintenance/support
-- Desktop/Laptop/Smartphone tech support
-- Dining and retail experience -->
-
-- Freelance web development since 2014
-- **Keypad** (www.getkeypad.co): Freelance project from November 12, 2014 to December 04, 2015. Developed static front-end from scratch for a popular app that made its way to the top 10 on the Mac App Store, rated Best Communication App of 2014 by iMore.com.
-- **Eytan Schulman** (www.eytan.co): Freelance project from June 1, 2015 to June 22, 2015. Personal website for Eytan Schulman. Developed and designed static front-end from scratch.
-- **SalesNexus** (www.salesnexus.com): Internship from February 16, 2016 to June 20, 2016. Quality assurance and testing for a new CRM platform. Implemented automated tests with Selenium in Node.js.
-- **Kathleen A Nicholson, CPA** (www.kanicholsoncpa.com): Freelance project from September 8, 2016 to September 9, 2016. Small business website for a local, Houston tax firm. Utilized Jekyll and Sass CSS preprocessor for optimal development workflow. Not yet published.
-- Office Depot sales associate from January 22, 2017 to August 11, 2017
-- TAMUG Information Services from January 25, 2018 to present
-
-
-<!-- ### Personal Projects
-Projects developed on my own time and volition.
-
-- **Stego** (www.git.io/vRX9M): CodeRED Liftoff hackathon project for PNG image steganography. Started and finished project in less than 24 hours. Lead developer of project and co-designed the core embedding algorithm.
-- **Roboruri** (www.git.io/vN1Ao): A chat bot developed for the Telgram messaging platform intended to provide speedy querying for TV shows, movies, and anime, as well as implement basic Natural Language Processing and Node 8 features. Inspired by reddit bot /u/Roboragi.
-- **Fluff World** (www.fluff.world): Participated in active development of a private social media website, music discussion forum, and P2P file sharing service. Specifically, quality assurance and security.
-- **FWMC** (www.git.io/viOLT): Minecraft Spigot plugin written in Java. A custom mod used to implement an outside social database into the game and add custom mechanics.
-- **FWAPI** (www.npmjs.com/fwapi): Custom NPM module written to wrap the Fluff World HTTP API with Node.js bindings.
-- **Viento** (www.austinj.net/viento): A front-end JavaScript library for sequentially firing and timing CSS animations with brevity and convenience.
-- **au5ton-logger** (www.npmjs.com/au5ton-logger): Custom NPM module written to pretty-print _everything_, including color-coding by datatypes, configurable options with how explicit to be, and emojis for your errors, warnings, and successes.
-- **Music** (www.austinj.net/music): Small showcase of what kind of music I've been listening to lately, populated by Last.fm and SoundCloud data. Statistics powered by Heroku API server.
-- **www.Austinj.net**: Sleek, efficient website implementing Material Design to showcase my work.
-- Resume generated from Markdown: https://github.com/au5ton/resume.md -->
+- Other programming: Node.js, Java, Python, Matlab, Ruby, Go, C++
+- Apple Final Cut Pro X certified
