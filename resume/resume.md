@@ -5,6 +5,9 @@
 
 <!-- Main body starts here  --->
 
+### Objective
+To obtain a professional position in the software development industry applying my problem solving skills and relevant experience.
+
 ### Education
 
 <span class="subtitle">Heights High School / Class of 2017</span>
@@ -12,6 +15,9 @@ Class rank: 58 of 513, GPA: 3.91
 
 <span class="subtitle">Texas A&M University at Galveston / Class of 2021</span>
 College of Engineering, pursuing Computer Science major
+
+### Educational Achievements 
+- Honorable Mention at Texas A&M University at Galveston 10th Annual Math Olympiad
 
 ### Professional Experience
 
@@ -29,4 +35,5 @@ College of Engineering, pursuing Computer Science major
 - Shell scripts & console environments (Bash + CMD)
 - Full-stack web development
 - Other programming: Node.js, Java, Python, Matlab, Ruby, Go, C++
+- Git/Github (active since 2013)
 - Apple Final Cut Pro X certified
